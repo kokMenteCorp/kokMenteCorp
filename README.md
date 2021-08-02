@@ -1,2 +1,1 @@
 - Mente Corp Programmer
-- CEO
